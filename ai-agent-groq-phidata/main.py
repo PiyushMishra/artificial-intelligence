@@ -1,6 +1,5 @@
 def main():
-    print("Hello from ai-agent-groq-phidata!")
+    print("Hey, I am saying hello")
 
-
-if __name__ == "__main__":
+if __name__ ==  "__main__":
     main()
